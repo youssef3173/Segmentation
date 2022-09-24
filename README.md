@@ -1,2 +1,2 @@
 # Segmentation
-Segmentation in Matlab
+Segmentation in Matlab using Iterated Conditional Modes (ICM)
